@@ -1,0 +1,18 @@
+﻿
+.borde {
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+
+.padding{
+    padding: 30px !important;
+}
+
+.cuerpo  {
+    margin-top: 30px !important;
+}
+
+#idReserva {
+    position: relative;
+    top: 6px;
+}
